@@ -3,8 +3,10 @@
     color: #596C68;
     padding: 30px;
     border-radius: 16px;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
     margin: 20px 0;
+    background-color: rgba(255, 255, 255, .5);
+        backdrop-filter: blur(4px);
 }
 
 
